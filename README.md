@@ -1,6 +1,6 @@
 # 🎬 Netflix Clone
 
-🔗 **Live Demo:** https://mohit823-h.netlify.app/
+🔗 **Live Demo:**[ https://mohit823-h.netlify.app/](https://netflix-clone-git-main-mohit823s-projects.vercel.app/)
 
 ---
 
